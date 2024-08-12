@@ -29,6 +29,15 @@
 \usepackage{tikz}
 % \usepackage[authoryear,sort]{natbib}
 % \usepackage[natbib=true]{biblatex}
+\usepackage[colorlinks,citecolor=blue]{hyperref}
+\IfFileExists{.git/gitHeadInfo.gin}{
+    \usepackage[pcount,grumpy,mark,markifdirty]{gitinfo2}
+}{%
+    \usepackage[local,pcount,grumpy,mark,markifdirty]{gitinfo2}
+}
+
+% Feel++ macro 
+\newcommand{\feelpp}{Feel\nolinebreak\hspace{-.05em}\raisebox{.4ex}{\tiny\bf +}\nolinebreak\hspace{-.10em}\raisebox{.4ex}{\tiny\bf +}\xspace}
 
 \newcommand{\review}[1]{\textcolor{blue}{#1}}
 
