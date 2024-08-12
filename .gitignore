@@ -1,0 +1,16 @@
+_minted*/*
+
+*bbl
+*.pdf
+*.aux
+*.log
+*.run.xml
+*.bcf
+*.out
+*.bcf
+*.blg
+*.toc
+*.pyg
+*.tdo
+*.synctex*
+*.synctex.gz
