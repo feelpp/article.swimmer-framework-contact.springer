@@ -1,0 +1,17 @@
+\usepackage[%
+        shash={9c59d39},
+        lhash={9c59d391286daf9a71856c57b10f0f4b4e1d418b},
+        authname={Christophe Prud'homme},
+        authemail={christophe.prudhomme@cemosis.fr},
+        authsdate={2024-08-13},
+        authidate={2024-08-13 10:10:21 +0200},
+        authudate={1723536621},
+        commname={Christophe Prud'homme},
+        commemail={christophe.prudhomme@cemosis.fr},
+        commsdate={2024-08-13},
+        commidate={2024-08-13 10:10:21 +0200},
+        commudate={1723536621},
+        refnames={ (HEAD -> 1-add-latex-workflow, tag: v0.0.1, origin/1-add-latex-workflow)},
+        firsttagdescribe={v0.0.1},
+        reltag={v0.0.1-0-g9c59d39}
+    ]{gitexinfo}
