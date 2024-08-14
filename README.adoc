@@ -1,0 +1,39 @@
+= Towards a computational framework using finite element methods with Arbitrary Lagrangian-Eulerian approach for swimmers with contact
+:author: Luca Berti, Laetitia Giraldi, Christophe Prud'homme, Céline Van Landeghem
+
+[.author]
+Luca Berti::
+CNRS - Institut de Recherche Mathématique Avancée, UMR 7501 Université de Strasbourg
+email: berti@math.unistra.fr
+
+[.author]
+Laetitia Giraldi::
+Université Côte d'Azur, INRIA, CNRS, Calisto team
+email: laetitia.giraldi@inria.fr
+
+[.author]
+Christophe Prud'homme::
+Cemosis, Institut de Recherche Mathématique Avancée, UMR 7501 Université de Strasbourg - CNRS
+email: christophe.prudhomme@math.unistra.fr
+
+[.author]
+Céline Van Landeghem::
+Institut de Recherche Mathématique Avancée, UMR 7501 Université de Strasbourg - CNRS
+email: c.vanlandeghem@unistra.fr
+
+image::https://zenodo.org/badge/DOI/10.5281/zenodo.13310834.svg[DOI, link=https://doi.org/10.5281/zenodo.13310834]
+
+image:https://img.shields.io/github/v/release/feelpp/article.swimmer-framework-contact.springer[GitHub Release]
+image:https://img.shields.io/github/actions/workflow/status/feelpp/article.swimmer-framework-contact.springer/latex.yml[GitHub Actions Workflow Status]
+image:https://img.shields.io/github/downloads/feelpp/article.swimmer-framework-contact.springer/total[GitHub Downloads (all assets, all releases)]
+
+
+== Abstract
+
+This paper introduces a computational framework for simulating the movement of multiple swimmers with various geometries immersed in a Navier-Stokes fluid. 
+The approach relies on the finite element method with an Arbitrary Lagrangian-Eulerian (ALE) framework to handle swimmer displacements. 
+Numerous numerical experiments demonstrate the adaptability of the computational framework across various scenarios.
+All the implementations are made using the Feel++ finite element library.
+
+== How to cite
+
